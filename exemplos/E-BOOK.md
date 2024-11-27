@@ -1,20 +1,18 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+Desvendando o Natural
+Natty or Fake Natty  🌌
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+📒 Descrição
+O e-book foi elaborado a fim de trazer de modo simplificado, o significado de Natty e Fake Natty no mundo do fisiculturismo e também Fitness.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+🤖 Tecnologias Utilizadas
+- IA Generativa Bing Chat.
+- IA Generativa Bing Image Creator. 
+- Ferramenta para edição: Canva.
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+🧐 Processo de Criação
+Através do Bing chat, foram realizadas pesquisas acerta das definições de Natty e Fake Natty, posteriormente foi solicitado um script para elaboração de um e-book. A partir das respostas obtidas por meio da IA, foi feito um resumo dos conteúdos, com relação as imagens, também foram criadas a partir das definições apresentadas para IA.  
 
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+ 🚀 Resultados
+O e-book mesmo que de forma resumida, trás significativas informações sobre as vertentes do que visualmente podemos considerar natural ou não, a utilização das IA's permitiu maior obtenção de conteúdo de forma mais rapida, como também proporcinou redução do tempo de preparação. 
 
-[LINK PARA O E-BOOK AQUI]()
 
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
